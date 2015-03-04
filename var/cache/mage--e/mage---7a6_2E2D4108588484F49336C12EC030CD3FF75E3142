@@ -1,0 +1,133 @@
+ 
+ 
+ 
+ 
+ 
+ 
+
+<div class="footer-container">
+	<div class="footer">
+	
+				<div class="footer1-container">
+		    <div class="footer1">
+				<div class="newsletter">	
+					<div class="headline">Newsletter</div>	    	
+		    		<form action="https://104.236.255.23/newsletter/subscriber/new/?___SID=S" method="post" id="newsletter-validate-detail">
+<div class="form-newsletter">
+	<div class="input-box">
+	   <input type="text" name="email" value="Enter email address..." onblur="addText(this);" onfocus="clearText(this)" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email" />
+	</div>
+	<div class="actions">
+	    <button type="submit" title="Subscribe" class="button"><span><span>Subscribe</span></span></button>
+	</div>
+</form>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    
+    function clearText(theField)
+    {
+  	  if (theField.defaultValue == theField.value)
+  		  theField.value = '';
+    }
+
+    function addText(theField)
+    {
+    	if (theField.value == '')
+    		theField.value = theField .defaultValue;
+    }
+    
+//]]>
+</script>
+</div>
+		    	</div>
+		        
+		        <div class="footer-social">
+		        	<div class="headline">Follow us</div>
+    				<ul class="social-icons">
+                	<li><a href="#" title="facebook"><img src="https://104.236.255.23/media/wysiwyg/pagayo/pt001/icon-social-facebook.png" alt="facebook"/></a></li>
+                	<li><a href="#" title="twitter"><img src="https://104.236.255.23/media/wysiwyg/pagayo/pt001/icon-social-twitter.png" alt="twitter"/></a></li>
+                	<li><a href="#" title="googleplus"><img src="https://104.236.255.23/media/wysiwyg/pagayo/pt001/icon-social-googleplus.png" alt="googleplus"/></a></li>
+                	<li><a href="#" title="youtube"><img src="https://104.236.255.23/media/wysiwyg/pagayo/pt001/icon-social-youtube.png" alt="youtube"/></a></li>
+                	<li><a href="#" title="vimeo"><img src="https://104.236.255.23/media/wysiwyg/pagayo/pt001/icon-social-vimeo.png" alt="vimeo"/></a></li>
+                	<li><a href="#" title="pinterest"><img src="https://104.236.255.23/media/wysiwyg/pagayo/pt001/icon-social-pinterest.png" alt="pinterest"/></a></li>
+                </ul>    			</div>
+		    </div>
+		    <div class="clearer"></div>
+		</div>
+		
+				<div class="footer2-container">
+			<div class="footer2">
+				<div class="box1">
+        			<div class="headline">Customer Service</div>
+        			<ul>
+                	<li><a href="http://104.236.255.23/customer-service/?___SID=U">Customer Service</a></li>
+                	<li><a href="https://104.236.255.23/sales/guest/form/?___SID=S">Orders and Returns</a></li>
+                	<li><a href="http://104.236.255.23/customer-service/?___SID=U">Shipping and Delivery</a></li>
+                	<li><a href="http://104.236.255.23/catalog/seo_sitemap/category/?___SID=U">Sitemap</a></li>
+                </ul>        		</div>
+        		<div class="box2">
+        			<div class="headline">About Us</div>
+        			<ul>
+                	<li><a href="http://104.236.255.23/about-magento-demo-store/?___SID=U">About Us</a></li>
+                	<li><a href="http://104.236.255.23/privacy-policy-cookie-restriction-mode/?___SID=U">Privacy Policy</a></li>
+                	<li><a href="http://104.236.255.23/contacts/?___SID=U">Contact Us</a></li>
+                	<li><a href="http://104.236.255.23/customer-service/?___SID=U">Shopping Infos</a></li>	
+                </ul>        		</div>
+        		<div class="box3">
+        			<div class="headline">New Products</div>
+        			<ul>
+                	<li><a href="http://104.236.255.23/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://104.236.255.23/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://104.236.255.23/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://104.236.255.23/#/?___SID=U">Textlink</a></li>
+                </ul>        		</div>
+        		<div class="box4">
+        			<div class="headline">Popular</div>
+        			<ul>
+                	<li><a href="http://104.236.255.23/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://104.236.255.23/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://104.236.255.23/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://104.236.255.23/#/?___SID=U">Textlink</a></li>
+                </ul>        		</div>
+        		<div class="box5">
+        			<div class="headline">My Account</div>
+        			<ul>
+                	<li><a href="https://104.236.255.23/customer/account/?___SID=S">My Account</a></li>
+                	<li><a href="https://104.236.255.23/wishlist/?___SID=S">My Wishlist</a></li>
+                	<li><a href="http://104.236.255.23/checkout/cart/?___SID=U">View Cart</a></li>
+                	<li><a href="http://104.236.255.23/checkout/?___SID=U">Checkout</a></li>
+                </ul>        		</div>
+				<div class="clearer"></div>
+		    </div>
+		</div>
+		
+				<div class="footer3-container">
+			<div class="footer3">
+				<div class="footer-payments">
+					<ul class="payment-icons">
+                	<li><img src="https://104.236.255.23/media/wysiwyg/pagayo/pt001/icon-payment-paypal.png" alt="PayPal"/></li>
+                	<li><img src="https://104.236.255.23/media/wysiwyg/pagayo/pt001/icon-payment-visa.png" alt="Visa"/></li>
+                	<li><img src="https://104.236.255.23/media/wysiwyg/pagayo/pt001/icon-payment-mastercard.png" alt="MasterCard"/></li>
+                	<li><img src="https://104.236.255.23/media/wysiwyg/pagayo/pt001/icon-payment-amex.png" alt="Amercian Express"/></li>
+                	<li><img src="https://104.236.255.23/media/wysiwyg/pagayo/pt001/icon-payment-moneybookers.png" alt="Moneybookers"/></li>
+                </ul>				</div>
+				<ul class="links">
+                	<li class="first"><a href="http://104.236.255.23/about-magento-demo-store/?___SID=U">About Us</a></li>
+                	<li><a href="http://104.236.255.23/customer-service/?___SID=U">Customer Service</a></li>
+                	<li><a href="http://104.236.255.23/contacts/?___SID=U">Contact Us</a></li>
+                	<li><a href="http://104.236.255.23/catalogsearch/advanced/?___SID=U">Advanced Search</a></li>
+                	<li><a href="http://104.236.255.23/catalogsearch/term/popular/?___SID=U">Search Terms</a></li>
+                	<li><a href="http://104.236.255.23/catalog/seo_sitemap/category/?___SID=U">Sitemap</a></li>
+                	<li><a class="link-rss" href="http://104.236.255.23/rss/?___SID=U">RSS</a></li>
+                	<li><a href="https://104.236.255.23/sales/guest/form/?___SID=S">Orders and Returns</a></li>
+                	<li class="last privacy"><a href="http://104.236.255.23/privacy-policy-cookie-restriction-mode/?___SID=U">Privacy Policy</a></li>
+                </ul>    			<div class="copyright">
+					&copy; 2014 Magento Demo Store. All Rights Reserved. | <a href="http://www.pagayo.com" title="Magento Theme by www.pagayo.com" target="_blank">Theme by Pagayo</a>
+				</div>
+				<div class="clearer"></div>
+		    </div>
+		</div>
+		
+	</div>
+</div>

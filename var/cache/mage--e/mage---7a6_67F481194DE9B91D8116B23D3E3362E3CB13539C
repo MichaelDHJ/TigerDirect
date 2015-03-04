@@ -1,0 +1,51 @@
+<div class="block block-layered-nav">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+    </div>
+    <div class="block-content">
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/computer-speakers.html?___SID=U">Computer Speakers</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/duplicators.html?___SID=U">Duplicators</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/external-storage.html?___SID=U">External Storage</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/keyboards-mice.html?___SID=U">Keyboards &amp; Mice</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/power-protection.html?___SID=U">Power Protection</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/projectors-screens.html?___SID=U">Projectors &amp; Screens</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/printers.html?___SID=U">Printers</a> (6)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/routers.html?___SID=U">Routers</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/usb-drivers.html?___SID=U">USB Drivers</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/usb-hubs.html?___SID=U">USB Hubs</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/scanners.html?___SID=U">Scanners</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/peripherals/webcams.html?___SID=U">Webcams</a> (7)
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+</div>

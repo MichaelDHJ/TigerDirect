@@ -1,0 +1,72 @@
+<div class="block block-layered-nav">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+    </div>
+    <div class="block-content">
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/barebone-kits.html?___SID=U">Barebone Kits</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/case-accessories.html?___SID=U">Case Accessories</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/cd-dvd-blue-ray-burners.html?___SID=U">CD/DVD/Blue-Ray Burners</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/computer-cases.html?___SID=U">Computer Cases</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/cpu-processors.html?___SID=U">CPU Processors</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/drive-enclosures.html?___SID=U">Drive Enclosures</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/fans-cooling.html?___SID=U">Fans &amp; Cooling</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/flash-card-readers.html?___SID=U">Flash &amp; Card Readers</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/hard-drives.html?___SID=U">Hard Drives</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/interface-cards.html?___SID=U">Interface Cards</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/memory.html?___SID=U">Memory</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/motherboards.html?___SID=U">Motherboards</a> (6)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/motherboard-combos.html?___SID=U">Motherboard Combos</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/power-supplies.html?___SID=U">Power Supplies</a> (6)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/removeable-storage.html?___SID=U">Removeable Storage</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/solid-state-drivers.html?___SID=U">Solid State Drivers</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/sound-cards.html?___SID=U">Sound Cards</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/video-capture-cards.html?___SID=U">Video Capture Cards</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computer-hardware/components/video-graphics-cards.html?___SID=U">Video / Graphics Cards</a> (7)
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+</div>

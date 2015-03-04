@@ -1,0 +1,57 @@
+<div class="block block-layered-nav">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+    </div>
+    <div class="block-content">
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/all-in-one-computers.html?___SID=U">All-in-One Computers</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/barebone-kits.html?___SID=U">Barebone Kits</a> (3)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/chromebooks.html?___SID=U">Chromebooks</a> (4)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/desktops.html?___SID=U">Desktops</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/gaming-pcs.html?___SID=U">Gaming PCs</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/laptops-notebooks.html?___SID=U">Laptops / Notebooks</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/monitors.html?___SID=U">Monitors</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/refurbished-deskptop.html?___SID=U">Refurbished Deskptop</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/refurbished-laptops.html?___SID=U">Refurbished Laptops</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/servers.html?___SID=U">Servers</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/tablets-ereaders.html?___SID=U">Tablets &amp; eReaders</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/thin-client.html?___SID=U">Thin Client</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/ultrabooks.html?___SID=U">UltraBooks</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://104.236.255.23/shop-all-products/computers-tablets/computers/workstations.html?___SID=U">Workstations</a> (7)
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+</div>
